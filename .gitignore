@@ -1,0 +1,6 @@
+node_modules/
+website_upload.zip
+*.zip
+.vscode/
+Thumbs.db
+.DS_Store

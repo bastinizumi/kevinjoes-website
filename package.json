@@ -1,0 +1,10 @@
+{
+  "name": "kevinjoes",
+  "version": "1.0.0",
+  "description": "Kevin Joes Website",
+  "scripts": {
+    "dev": "node serve.js",
+    "start": "node serve.js",
+    "serve": "node serve.js"
+  }
+}
